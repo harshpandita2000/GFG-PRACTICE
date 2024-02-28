@@ -3,6 +3,7 @@
 class Solution:
     def game_with_number (self, arr,  n) : 
         #Complete the function
+        
   
         listt =[]
         for i in range(n-1):
